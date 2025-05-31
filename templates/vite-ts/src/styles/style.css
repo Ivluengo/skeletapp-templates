@@ -1,0 +1,11 @@
+@import 'reset.css';
+
+.container {
+  width: 80%;
+  max-width: 1000px;
+  margin: 3rem auto;
+}
+
+body {
+  font-family: sans-serif;
+}
